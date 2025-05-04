@@ -2,5 +2,5 @@
 This is my first demo class.
 <br>
 Author-Muqarrab Hashmi
-<lr>
+<br>
 Edited by Muqarrab and Ayan 
